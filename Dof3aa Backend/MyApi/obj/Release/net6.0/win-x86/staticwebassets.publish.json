@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "hvCRt0onHkVwZwJxoQBOGWO51UvLFS8IlWi/I+Thlpo=",
+  "Source": "MyApi",
+  "BasePath": "_content/MyApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyApi\\wwwroot",
+      "Source": "MyApi",
+      "ContentRoot": "F:\\FCI\\Dof3aa\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\FCI\\Dof3aa\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\wwwroot\\fa0a8158-7d80-464b-8f91-29dea641945cbaa1a797-6cda-4940-ab64-9b35e15456d0.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FCI\\Dof3aa\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "fa0a8158-7d80-464b-8f91-29dea641945cbaa1a797-6cda-4940-ab64-9b35e15456d0.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fa0a8158-7d80-464b-8f91-29dea641945cbaa1a797-6cda-4940-ab64-9b35e15456d0.jpg"
+    }
+  ]
+}

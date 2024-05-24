@@ -1,0 +1,16 @@
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\bin\Debug\net6.0\InfraStructure Layer.deps.json
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\bin\Debug\net6.0\InfraStructure Layer.dll
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\bin\Debug\net6.0\InfraStructure Layer.pdb
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\bin\Debug\net6.0\Core.dll
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\bin\Debug\net6.0\Core.pdb
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\obj\Debug\net6.0\InfraStructure Layer.csproj.AssemblyReference.cache
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\obj\Debug\net6.0\InfraStructure Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\obj\Debug\net6.0\InfraStructure Layer.AssemblyInfoInputs.cache
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\obj\Debug\net6.0\InfraStructure Layer.AssemblyInfo.cs
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\obj\Debug\net6.0\InfraStructure Layer.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\obj\Debug\net6.0\InfraStructure Layer.sourcelink.json
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\obj\Debug\net6.0\InfraStr.42172C5A.Up2Date
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\obj\Debug\net6.0\InfraStructure Layer.dll
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\obj\Debug\net6.0\refint\InfraStructure Layer.dll
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\obj\Debug\net6.0\InfraStructure Layer.pdb
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\InfraStructure Layer\obj\Debug\net6.0\ref\InfraStructure Layer.dll

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{331D4875-ED14-4C88-8084-73F624D84803}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\mahmoud\\documents\\dof3aa\\website\\backend\\dof3aabackend\\dof3aa backend\\servicelayer\\emailservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D4875-ED14-4C88-8084-73F624D84803}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\emailservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF05F6F-0AA1-47BC-8466-DD2319505E44}|MyApi\\PresentationLayer.csproj|C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF05F6F-0AA1-47BC-8466-DD2319505E44}|MyApi\\PresentationLayer.csproj|solutionrelative:myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF05F6F-0AA1-47BC-8466-DD2319505E44}|MyApi\\PresentationLayer.csproj|C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\myapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF05F6F-0AA1-47BC-8466-DD2319505E44}|MyApi\\PresentationLayer.csproj|solutionrelative:myapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\ServiceLayer\\EmailService\\EmailService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\EmailService\\EmailService.cs",
+              "ToolTip": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\ServiceLayer\\EmailService\\EmailService.cs",
+              "RelativeToolTip": "ServiceLayer\\EmailService\\EmailService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:28:00.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyApi\\Program.cs",
+              "ToolTip": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\Program.cs",
+              "RelativeToolTip": "MyApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:27:00.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:25:22.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\wwwroot\\c777c030-f0f8-4889-a3fb-f45101f84181all.png",
+      "PackagePath": "staticwebassets\\c777c030-f0f8-4889-a3fb-f45101f84181all.png"
+    },
+    {
+      "Id": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\wwwroot\\fa0a8158-7d80-464b-8f91-29dea641945cbaa1a797-6cda-4940-ab64-9b35e15456d0.jpg",
+      "PackagePath": "staticwebassets\\fa0a8158-7d80-464b-8f91-29dea641945cbaa1a797-6cda-4940-ab64-9b35e15456d0.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PresentationLayer.props",
+      "PackagePath": "build\\PresentationLayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PresentationLayer.props",
+      "PackagePath": "buildMultiTargeting\\PresentationLayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PresentationLayer.props",
+      "PackagePath": "buildTransitive\\PresentationLayer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
