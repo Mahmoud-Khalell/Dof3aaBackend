@@ -16,3 +16,21 @@ C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\ServiceLayer\obj\Debug\n
 C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
 C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
 C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\MyApi\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\bin\Debug\net6.0\Core.dll
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\bin\Debug\net6.0\InfraStructure Layer.dll
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\bin\Debug\net6.0\Core.pdb
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\bin\Debug\net6.0\InfraStructure Layer.pdb
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\obj\Debug\net6.0\ServiceLayer.sourcelink.json
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\obj\Debug\net6.0\ServiceL.3037F684.Up2Date
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+C:\Users\mahmoud\Documents\Dof3aa\Website\Backend\Dof3aaBackend\Dof3aa Backend\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m+DAKitA1cNIYNbSF05p84gbWx/+xHZmxCe6KmqlNhT21D8cVUnhwSMptMbtojTjh86nddruxFZc4N4oyAXOeg==",
+  "dgSpecHash": "nLSO6GawV9q7TkBeBYqie8AC0VbjxCxTNCPSbo+sz1LzA53Pvf4ORL+wdAif9QixGgVBLOJTVO1c1hZBDUr7Xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\ServiceLayer\\ServiceLayer.csproj",
+  "projectFilePath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\ServiceLayer\\ServiceLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahmoud\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512",
     "C:\\Users\\mahmoud\\.nuget\\packages\\mailkit\\4.5.0\\mailkit.4.5.0.nupkg.sha512",

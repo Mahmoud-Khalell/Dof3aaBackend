@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pOQNv/g1ELMznGChNgQ6a4mPH8wSbS9XGpfPEjOpDI4=",
+  "Hash": "6LvWS66uJ22fmvO64TJYjoF8o/bq/BO6J9iCR7EEzTI=",
   "Source": "PresentationLayer",
   "BasePath": "_content/PresentationLayer",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PresentationLayer\\wwwroot",
       "Source": "PresentationLayer",
-      "ContentRoot": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\wwwroot\\",
       "BasePath": "_content/PresentationLayer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\wwwroot\\c777c030-f0f8-4889-a3fb-f45101f84181all.png",
+      "Identity": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\wwwroot\\c777c030-f0f8-4889-a3fb-f45101f84181all.png",
       "SourceId": "PresentationLayer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\wwwroot\\",
       "BasePath": "_content/PresentationLayer",
       "RelativePath": "c777c030-f0f8-4889-a3fb-f45101f84181all.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\c777c030-f0f8-4889-a3fb-f45101f84181all.png"
     },
     {
-      "Identity": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\wwwroot\\fa0a8158-7d80-464b-8f91-29dea641945cbaa1a797-6cda-4940-ab64-9b35e15456d0.jpg",
+      "Identity": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\wwwroot\\fa0a8158-7d80-464b-8f91-29dea641945cbaa1a797-6cda-4940-ab64-9b35e15456d0.jpg",
       "SourceId": "PresentationLayer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\wwwroot\\",
       "BasePath": "_content/PresentationLayer",
       "RelativePath": "fa0a8158-7d80-464b-8f91-29dea641945cbaa1a797-6cda-4940-ab64-9b35e15456d0.jpg",
       "AssetKind": "All",

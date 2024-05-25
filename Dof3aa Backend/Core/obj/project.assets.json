@@ -2136,11 +2136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\mahmoud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\Core\\obj\\",
+      "outputPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",

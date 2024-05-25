@@ -2982,11 +2982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\PresentationLayer.csproj",
+      "projectUniqueName": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\PresentationLayer.csproj",
       "projectName": "PresentationLayer",
-      "projectPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\PresentationLayer.csproj",
+      "projectPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\mahmoud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\MyApi\\obj\\",
+      "outputPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\MyApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3003,14 +3003,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\Core\\Core.csproj"
+            "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\Core\\Core.csproj"
             },
-            "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\InfraStructure Layer\\InfraStructure Layer.csproj": {
-              "projectPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\InfraStructure Layer\\InfraStructure Layer.csproj"
+            "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\InfraStructure Layer\\InfraStructure Layer.csproj": {
+              "projectPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\InfraStructure Layer\\InfraStructure Layer.csproj"
             },
-            "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\ServiceLayer\\ServiceLayer.csproj": {
-              "projectPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\MyApi\\ServiceLayer\\ServiceLayer.csproj"
+            "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\ServiceLayer\\ServiceLayer.csproj": {
+              "projectPath": "C:\\Users\\mahmoud\\Documents\\Dof3aa\\Website\\Backend\\Dof3aaBackend\\Dof3aa Backend\\ServiceLayer\\ServiceLayer.csproj"
             }
           }
         }
